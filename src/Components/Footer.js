@@ -8,9 +8,9 @@ function Footer() {
         <div className="footerGridItem">
           <h3 className="footerH3">Contact</h3>
           <p className="footerP">
-            Phone: <a href="tel:0000000000">(000)-000-0000</a>
+            Phone: <a href="tel:8019233166">(801)-923-3166</a>
           </p>
-          <p className="footerP">Fax: (877)-411-1834</p>
+          <p className="footerP">Fax: (801)-384-0779</p>
           <p className="footerP">
             Email:{" "}
             <a href="mailto:tresa@firstclasshomemortgage.com">
